@@ -1,2 +1,3 @@
 # stu_trials
-The skeleton of an html document.
+Contents in here defines my journey through the stutern learning program.
+I'll do great.
