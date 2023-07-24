@@ -1,3 +1,3 @@
 # stu_trials
-Contents in here defines my journey through the stutern learning program.
+The contents here define my journey through the Stutern Learning Program.
 I'll do great.
