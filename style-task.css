@@ -1,0 +1,15 @@
+body{
+    background-color: white;
+}
+
+.section1 p{
+    color:green;
+}
+
+.section2 p{
+    color:red;
+}
+
+.section3 p{
+    color: blue;
+}
