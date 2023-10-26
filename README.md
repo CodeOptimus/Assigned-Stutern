@@ -1,2 +1,2 @@
 # stu_trials
-The contents here define my journey through the Stutern Learning Program.
+Assigned tasks at Stutern Learning Program.
